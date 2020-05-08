@@ -1,0 +1,32 @@
+.doing .col
+{   
+    background-color: white;
+    box-shadow: 2px 2px 10px grey;
+    padding: 40px;
+}
+span{
+    color: green;
+}
+hr
+{
+    color: grey;
+}
+.connect li  
+{
+    list-style-image: url("./phone-call\ \(1\).png");
+}
+.connect li:last-child
+{
+    list-style-image: url("multimedia.png");
+}
+.events marquee
+{
+    height: 200px;
+}
+.events .col
+{ 
+    background-color: white;
+    box-shadow: 2px 2px 10px grey;
+    padding: 20px;
+}
+
